@@ -1,0 +1,57 @@
+body{
+    background-color: powderblue;
+}
+#header{
+    text-align: center;
+}
+h1{
+    background-color: white;
+    display: inline-block;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    padding: 15px;
+    border-style: solid;
+    border-radius: 15px;
+    border-width: 15px;
+}
+#instructions{
+    text-align: center;
+    text-decoration: underline;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+#uploadDir{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-left : 75px;
+    text-align:center;
+}
+#buttons{
+    text-align: center;
+
+}
+#description{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-left : 90px;
+}
+#picture{
+    margin-left : 90px;
+    border-style: ridge;
+    border-radius: 25px;
+    border-width: 15px;
+}
+table, th, td{
+    border:1px solid black;
+    text-align: center;
+    margin-left: 650px;
+    margin-top: -350px;
+    width: 700px;
+    height: 30px;
+}
+th{
+    background-color: white;
+}
+td{
+    background-color: white;
+}
